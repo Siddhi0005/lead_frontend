@@ -5,7 +5,7 @@ import { CSVLink } from 'react-csv';
 //import { DatePicker } from 'react-datepicker';
 //import 'react-datepicker/dist/react-datepicker.css';
 import { DateRangePickerComponent } from "@syncfusion/ej2-react-calendars";
-import { DateRangePicker } from 'rsuite';
+
 
 
 const Report =() => {
